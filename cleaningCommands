@@ -1,0 +1,5 @@
+#sed -i G trumpTweets20190901 
+#awk '!NF{$0="%"}1' trumpTweets20190901
+#awk '!NF{$0="%"}1' trumpTweets20190901 > trumpFortunes
+
+//sed and awk are GNU versions on Debian.
