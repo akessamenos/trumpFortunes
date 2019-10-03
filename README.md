@@ -18,3 +18,5 @@ Shortest string: 3 bytes<br>
 More than $500 million designated for Iraqi Army disappeared. Where is it? Our sad sad country--what have we come to?<br> 
 
 <p>Now you too can randomly wonder what have we come to from the command line or many other kinds of fortune cookie dispenser throughout the universe!</p>
+
+<p>Now with added traitorousness and Civil War!</p>
